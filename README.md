@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kaos6nation74
 - 👀 I’m interested in ...python,& html
 - 🌱 I’m currently learning ...html
-- 💞️ I’m looking to collaborate on ...html
+- 💞️ I’m looking to collaborate on ... kodi error file
 - 📫 How to reach me ...
 JCrone2021@criptext.com 
 <!---
